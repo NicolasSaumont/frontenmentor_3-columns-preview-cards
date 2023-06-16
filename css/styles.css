@@ -64,6 +64,7 @@ body {
   font-weight: bold;
   border-radius: 50px;
   text-decoration: none;
+  text-transform: capitalize;
 }
 
 .learn-more__link:hover {
